@@ -3,8 +3,6 @@
 
 View [Wireframes](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/HyperLit/HyperLitWireframesBot.md) (http://bit.ly/12aZLWu)
 
-View [Video](https://vimeo.com/63042384) (http://vimeo.com/63042384)
-
 -------------
 
   The current iteration of *HyperLit* consists of a wireframe-based prototype and a speculative design-fiction video. Together, the wireframes and video offer a model for the expected use of the app, while also highlighting the critical ideas framing and informing *HyperLit*. As demonstrated by the wireframes and video, *HyperLit* is a social reading environment that uses gameful design to encourage player engagement and participation, while also presenting a self-reflexive framework that encourages critical awareness of the environment it inhabits: Web 2.0 and the digital economy. By combining these critical and interactive elements, *HyperLit* functions as an argument in the form of a prototype that offers a critique of current socioeconomic hierarchies, the academy, Web 2.0, and gamification, while simultaneously operating within these spaces to encourage critical awarenesses of the problematic ideologies and frameworks that inform these technologies and institutions. 
